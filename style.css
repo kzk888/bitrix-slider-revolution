@@ -1,0 +1,21 @@
+li.slider_li_elem {
+	cursor: pointer;
+	z-index: 998;
+}
+
+.new-year-hat {
+width: 112px;
+height: 141px;
+background: url('/upload/hat.png') no-repeat 0 0;
+position: absolute;
+z-index: 701;
+    right: -63px;
+    top: -42px;
+}
+
+.bannercontainer-simple-outer {
+    height: 360px;
+    position: relative;
+    width: 953px;
+    z-index: 1;
+}
